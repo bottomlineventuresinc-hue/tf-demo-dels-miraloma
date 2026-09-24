@@ -1,0 +1,13 @@
+PHOTO SOURCES — hs-048-dels Del S Plumbing Co (Wave 10 2026-09-24 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — residential plumbing pipes/valves (verified; NOT window cleaner)
+services-trade.jpg — water heater / pipes set (verified; Del S water-heater angle)
+job041-* — water heater B/A typical of this kind of job (verified)
+job-elec-* slots — faucet/fixtures + under-sink (verified)
+job052-* — copper/gas-piping support typical (verified)
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — residential exterior
+Rejected: window cleaner, stock faces, workers-as-pipes mislabel — not used
+Sources: Wave5–7 Unsplash/Pexels verified 2026-09-24 PT + prior Wave library
+Note: distinct from Brito Electric (same Mira Loma city, different trade photos)
