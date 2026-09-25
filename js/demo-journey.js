@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential plumbing, water heaters, and gas piping across Mira Loma and the Inland Empire. Louis looks at the job first and puts the price in writing.';
+            'Residential plumbing, water heaters, and gas piping in Mira Loma. Louis looks at the job first and puts the price in writing.';
         }
       }
     },
