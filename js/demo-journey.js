@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential plumbing, water heater work, and gas piping across Mira Loma, Jurupa, and the Inland Empire. You get a fixed itemised quote before we start, Louis as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Residential plumbing, water heaters, and gas piping across Mira Loma and the Inland Empire. Louis looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Plumbing and sprinklers,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Gas lines and water heaters,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Plumbing repair (written programme)';
+          serviceFirst.textContent = 'Gas piping for appliances (written price)';
         }
       }
     }
