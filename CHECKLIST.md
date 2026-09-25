@@ -42,7 +42,8 @@ Quality self-check PASS 2026-09-25 PT (CR rebuild). Same URL. Re-frozen under th
 
 ## Change request 2026-09-25c (coverage)
 CEO change request 2026-09-25c. Coverage towns chosen by the builder were removed. The page now names only
-the home city (Mira Loma) plus areas the packet itself lists. Packet line: "Coverage: Mira Loma / Jurupa / IE".
-Extra areas kept from the packet: Jurupa. Region label: Inland Empire (plain description, from the packet).
+the home city (Mira Loma) plus areas the packet itself lists. Packet line: "Coverage: Mira Loma / IE".
+Extra areas kept from the packet: none. Region label: Inland Empire (plain description, from the packet).
 Sample-job locations, coverage copy, the outside-the-city answer, demo lede and outreach line all use the home city only.
+Follow-up 2026-09-25 PT: Scout confirmed W1-W10 packet Coverage lines were inferred from location, not sourced. Original packet line "Mira Loma / Jurupa / IE" reduced to the home city only. Jurupa kept only as the city Mira Loma sits in ("Mira Loma, Jurupa Valley"), not as a separate service area.
 Re-rendered through the same generator; republished to the same repo with a normal commit. Re-frozen 2026-09-25 PT.
